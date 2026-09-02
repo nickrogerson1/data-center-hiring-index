@@ -1,5 +1,7 @@
 # US Data Center Hiring Index — aggregate dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22261857.svg)](https://doi.org/10.5281/zenodo.22261857)
+
 Monthly aggregate snapshot of live US data center job postings on Data Center
 JobHub — methodology and current edition at
 <https://datacenterjobhub.com/data-center-hiring-index>.
@@ -87,7 +89,11 @@ Attribute to **Data Center JobHub** and link to
 Suggested citation:
 
 > Data Center JobHub (2026). *US Data Center Hiring Snapshot: August 2026.*
-> https://datacenterjobhub.com/data-center-hiring-index/2026/08
+> Zenodo. https://doi.org/10.5281/zenodo.22261858
+
+The DOI above is the August edition. To cite the series as a whole — always
+resolving to the most recent edition — use the concept DOI
+<https://doi.org/10.5281/zenodo.22261857>.
 
 The licence covers the aggregate tables here. It does not extend to the
 underlying job listings, which belong to the employers who published them.
