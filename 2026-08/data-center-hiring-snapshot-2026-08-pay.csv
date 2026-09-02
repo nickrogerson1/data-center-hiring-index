@@ -1,0 +1,14 @@
+role_key,role_label,pay_period,sample_size,median_advertised_lower_bound,median_advertised_upper_bound,currency
+data-center-technician,Data center technician,HOUR,166,30.00,49.50,USD
+critical-facilities-engineer,Critical facilities engineer,HOUR,30,33.51,46.00,USD
+security,Data center security,HOUR,21,20.19,28.85,USD
+hvac-technician-data-center,Data center HVAC technician,HOUR,12,40.00,50.00,USD
+construction,Data center construction,HOUR,12,35.00,45.00,USD
+construction,Data center construction,YEAR,163,133000,200000,USD
+data-center-operations,Data center operations,YEAR,87,138000,200000,USD
+data-center-technician,Data center technician,YEAR,80,86000,119000,USD
+critical-facilities-engineer,Critical facilities engineer,YEAR,64,102100,166300,USD
+commissioning,Data center commissioning,YEAR,42,120000,165000,USD
+logistics,Data center logistics,YEAR,34,114300,194500,USD
+noc,Data center NOC technician,YEAR,19,162000,221000,USD
+security,Data center security,YEAR,16,139700,195000,USD

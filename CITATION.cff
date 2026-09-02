@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to the series page."
+title: "US Data Center Hiring Index — aggregate dataset"
+type: dataset
+authors:
+  - name: "Data Center JobHub"
+    website: "https://datacenterjobhub.com"
+url: "https://datacenterjobhub.com/data-center-hiring-index"
+license: CC-BY-4.0
+version: "2026-08"
+date-released: "2026-09-02"
+abstract: >-
+  Monthly aggregate snapshot of live US data center job postings on Data Center
+  JobHub: live jobs by state, role family and employer, plus median advertised
+  pay ranges from employer-stated listings. Frozen at a recorded UTC cutoff per
+  edition; methodology and the current edition at the series page.

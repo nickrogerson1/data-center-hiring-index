@@ -1,0 +1,2 @@
+# Publish the aggregate CSVs byte-for-byte, exactly as the site serves them.
+*.csv -text

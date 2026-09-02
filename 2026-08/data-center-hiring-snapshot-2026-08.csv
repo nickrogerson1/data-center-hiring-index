@@ -1,0 +1,43 @@
+dimension,key,label,value,unit,share_of_all_jobs_pct
+summary,live_jobs,Live jobs,1341,count,100.0
+summary,employers,Employers with live jobs,62,count,
+summary,states,States represented,41,count,
+summary,cities,Distinct city-state combinations,254,count,
+summary,stated_pay,Listings with employer-stated pay,769,count,57.3
+summary,posted_7_days,Published in previous 7 days,285,count,21.3
+summary,posted_30_days,Published in previous 30 days,843,count,62.9
+state,TX,Texas,331,live_jobs,24.7
+state,VA,Virginia,150,live_jobs,11.2
+state,GA,Georgia,76,live_jobs,5.7
+state,CA,California,74,live_jobs,5.5
+state,OH,Ohio,71,live_jobs,5.3
+state,AZ,Arizona,65,live_jobs,4.8
+state,TN,Tennessee,65,live_jobs,4.8
+state,NV,Nevada,47,live_jobs,3.5
+state,IA,Iowa,35,live_jobs,2.6
+state,IL,Illinois,30,live_jobs,2.2
+state,NY,New York,30,live_jobs,2.2
+state,NC,North Carolina,28,live_jobs,2.1
+role,construction,Data center construction,400,live_jobs,29.8
+role,data-center-technician,Data center technician,352,live_jobs,26.2
+role,critical-facilities-engineer,Critical facilities engineer,183,live_jobs,13.6
+role,data-center-operations,Data center operations,111,live_jobs,8.3
+role,commissioning,Data center commissioning,93,live_jobs,6.9
+role,logistics,Data center logistics,66,live_jobs,4.9
+role,security,Data center security,50,live_jobs,3.7
+role,data-center-electrician,Data center electrician,33,live_jobs,2.5
+role,noc,Data center NOC technician,28,live_jobs,2.1
+role,hvac-technician-data-center,Data center HVAC technician,20,live_jobs,1.5
+role,entry-level,Entry level data center,5,live_jobs,0.4
+employer,amazon-data-services,Amazon Data Services,175,live_jobs,13.0
+employer,google,Google,108,live_jobs,8.1
+employer,qts-data-centers,QTS Data Centers,102,live_jobs,7.6
+employer,iren,IREN,71,live_jobs,5.3
+employer,ntt-global-data-centers,NTT Global Data Centers,71,live_jobs,5.3
+employer,oracle,Oracle,57,live_jobs,4.3
+employer,microsoft,Microsoft,51,live_jobs,3.8
+employer,cyrusone,CyrusOne,49,live_jobs,3.7
+employer,ies-holdings,IES Holdings,47,live_jobs,3.5
+employer,fluidstack,Fluidstack,43,live_jobs,3.2
+employer,switch,Switch,37,live_jobs,2.8
+employer,xai,xAI,36,live_jobs,2.7
