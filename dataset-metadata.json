@@ -2,7 +2,7 @@
   "title": "US Data Center Hiring Index",
   "id": "KAGGLE_USERNAME/us-data-center-hiring-index",
   "subtitle": "Monthly aggregates of live US data center job postings by state, role, employer",
-  "description": "Monthly aggregate snapshot of live US data center job postings, with median advertised pay from employer-stated ranges.\n\nEach edition is frozen at one recorded UTC cutoff and never revised. Methodology and the current edition: https://datacenterjobhub.com/data-center-hiring-index\n\n## Files\n\n`data-center-hiring-snapshot-2026-08.csv` — one row per aggregate. Summary metrics (live jobs, employers, states, city-state pairs, listings stating pay, listings published in the previous 7 and 30 days), the top 12 states, the top 12 employers, and every role family, each with its share of all live jobs.\n\n`data-center-hiring-snapshot-2026-08-pay.csv` — median advertised lower and upper bounds per role family and pay period.\n\n## Method\n\nPopulation is the listings live and approved on Data Center JobHub at the cutoff, all in a US state; closed, expired and duplicate listings are excluded and nothing older than 90 days by the source's own posting date is carried. Job titles are grouped into broad role families by the site's title-matching rules; a job belongs to exactly one family.\n\nPay uses only employer-stated USD ranges carrying both bounds. Aggregator and feed estimates are excluded. Annual and hourly listings are reported separately and never converted between. A role x period row is published only at 8 or more ranges. The pay figures are medians of advertised bounds, not of earnings.\n\n## Limits\n\nThis is a census of the monitored listings, not of the US labour market. The monitored employer set grows over time, so totals move with coverage as well as with hiring. Monitoring began on 21 August 2026, so earlier posting-date cohorts are incomplete.\n\n## Licence\n\nCC BY 4.0. Attribute to Data Center JobHub and link to https://datacenterjobhub.com/data-center-hiring-index\n\nThe licence covers these aggregates. It does not extend to the underlying job listings, which belong to the employers who published them.",
+  "description": "Monthly aggregate snapshot of live US data center job postings, with median advertised pay from employer-stated ranges.\n\nEach edition is frozen at one recorded UTC cutoff and never revised. Methodology and the current edition: https://datacenterjobhub.com/data-center-hiring-index\n\n## Files\n\nEach edition is a folder, YYYY-MM/.\n\n`data-center-hiring-snapshot-YYYY-MM.csv` - one row per aggregate. Summary metrics (live jobs, employers, states, city-state pairs, listings stating pay, listings published in the previous 7 and 30 days), the top 12 states, the top 12 employers, and every role family, each with its share of all live jobs.\n\n`data-center-hiring-snapshot-YYYY-MM-pay.csv` - median advertised lower and upper bounds per role family and pay period.\n\n`data-center-hiring-snapshot-YYYY-MM-employers.csv` - from October 2026, live jobs for every employer with a live job.\n\n`data-center-hiring-snapshot-YYYY-MM-panel.csv` - from October 2026, the same-employer, same-method comparison with the previous edition: the only change between editions the dataset reports.\n\n`data-center-hiring-snapshot-YYYY-MM-pay-transparency.csv` - stated-pay share by state against whether state law requires a pay range in the advertisement, with a within-employer control. It carries its own, later cutoff.\n\n## Method\n\nPopulation is the listings live and approved on Data Center JobHub at the cutoff, all in a US state; closed, expired and duplicate listings are excluded and nothing older than 90 days by the source's own posting date is carried. Job titles are grouped into broad role families by the site's title-matching rules; a job belongs to exactly one family.\n\nPay uses only employer-stated USD ranges carrying both bounds. Aggregator and feed estimates are excluded. Annual and hourly listings are reported separately and never converted between. A role x period row is published only at 8 or more ranges. The pay figures are medians of advertised bounds, not of earnings.\n\nChange between editions is reported only for a panel of employers named in both editions whose boards were read the same way at both cutoffs, with their ads judged again by the title rules as they stood at the earlier cutoff.\n\n## Limits\n\nThis is a census of the monitored listings, not of the US labour market. The monitored employer set grows over time, so totals move with coverage as well as with hiring; the difference between two editions' totals is not a trend. Monitoring began on 21 August 2026, so earlier posting-date cohorts are incomplete.\n\n## Licence\n\nCC BY 4.0. Attribute to Data Center JobHub and link to https://datacenterjobhub.com/data-center-hiring-index\n\nThe licence covers these aggregates. It does not extend to the underlying job listings, which belong to the employers who published them.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -56,7 +56,7 @@
     },
     {
       "path": "2026-08/data-center-hiring-snapshot-2026-08-pay.csv",
-      "description": "August 2026 edition: median advertised pay bounds per role family and pay period",
+      "description": "August 2026 edition: median advertised pay bounds per role family and pay period, frozen 2026-09-02T10:15:54Z",
       "schema": {
         "fields": [
           {
@@ -93,6 +93,261 @@
             "name": "currency",
             "type": "string",
             "description": "Always USD"
+          }
+        ]
+      }
+    },
+    {
+      "path": "2026-10/data-center-hiring-snapshot-2026-10.csv",
+      "description": "October 2026 edition: summary, state, role and employer aggregates, frozen 2026-11-01T10:39:10Z",
+      "schema": {
+        "fields": [
+          {
+            "name": "dimension",
+            "type": "string",
+            "description": "summary, state, role or employer"
+          },
+          {
+            "name": "key",
+            "type": "string",
+            "description": "Machine key: a summary metric name, a USPS state code, a role-family key, or an employer slug on the site"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "Human-readable name"
+          },
+          {
+            "name": "value",
+            "type": "number",
+            "description": "The count"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "description": "count for summary rows, live_jobs otherwise"
+          },
+          {
+            "name": "share_of_all_jobs_pct",
+            "type": "number",
+            "description": "The value as a percentage of all live jobs, one decimal place; blank where a share is not meaningful"
+          }
+        ]
+      }
+    },
+    {
+      "path": "2026-10/data-center-hiring-snapshot-2026-10-pay.csv",
+      "description": "October 2026 edition: median advertised pay bounds per role family and pay period, frozen 2026-11-01T10:39:10Z",
+      "schema": {
+        "fields": [
+          {
+            "name": "role_key",
+            "type": "string",
+            "description": "Role-family machine key"
+          },
+          {
+            "name": "role_label",
+            "type": "string",
+            "description": "Role-family name"
+          },
+          {
+            "name": "pay_period",
+            "type": "string",
+            "description": "YEAR or HOUR - never converted between"
+          },
+          {
+            "name": "sample_size",
+            "type": "number",
+            "description": "Number of employer-stated ranges the row is computed from; always 8 or more"
+          },
+          {
+            "name": "median_advertised_lower_bound",
+            "type": "number",
+            "description": "Median of the ranges' minimums, USD"
+          },
+          {
+            "name": "median_advertised_upper_bound",
+            "type": "number",
+            "description": "Median of the ranges' maximums, USD"
+          },
+          {
+            "name": "currency",
+            "type": "string",
+            "description": "Always USD"
+          }
+        ]
+      }
+    },
+    {
+      "path": "2026-10/data-center-hiring-snapshot-2026-10-employers.csv",
+      "description": "October 2026 edition: live jobs for every employer with a live job, frozen 2026-11-01T10:39:10Z",
+      "schema": {
+        "fields": [
+          {
+            "name": "captured_at",
+            "type": "string",
+            "description": "The edition's cutoff, UTC"
+          },
+          {
+            "name": "employer_slug",
+            "type": "string",
+            "description": "Employer slug on the site"
+          },
+          {
+            "name": "employer_name",
+            "type": "string",
+            "description": "Employer name as the site renders it"
+          },
+          {
+            "name": "live_jobs",
+            "type": "number",
+            "description": "Live jobs at the cutoff"
+          },
+          {
+            "name": "share_of_all_jobs_pct",
+            "type": "number",
+            "description": "Share of all live jobs, one decimal place"
+          }
+        ]
+      }
+    },
+    {
+      "path": "2026-10/data-center-hiring-snapshot-2026-10-panel.csv",
+      "description": "October 2026 edition: the same-employer, same-method comparison with the previous edition, frozen 2026-11-01T10:39:10Z",
+      "schema": {
+        "fields": [
+          {
+            "name": "captured_at",
+            "type": "string",
+            "description": "This edition's cutoff, UTC"
+          },
+          {
+            "name": "base_captured_at",
+            "type": "string",
+            "description": "The previous edition's cutoff, UTC"
+          },
+          {
+            "name": "section",
+            "type": "string",
+            "description": "total (the panel), coverage (employers added since the base cutoff) or employer"
+          },
+          {
+            "name": "key",
+            "type": "string",
+            "description": "Employer slug, or the section's key"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "Employer name, or what the row counts"
+          },
+          {
+            "name": "adapter",
+            "type": "string",
+            "description": "How the site reads the employer's board"
+          },
+          {
+            "name": "employers",
+            "type": "number",
+            "description": "Employers the row covers"
+          },
+          {
+            "name": "base_live_jobs",
+            "type": "number",
+            "description": "Live jobs at the previous edition's cutoff"
+          },
+          {
+            "name": "live_jobs",
+            "type": "number",
+            "description": "Live jobs at this edition's cutoff"
+          },
+          {
+            "name": "newer_rules_only",
+            "type": "number",
+            "description": "Of live_jobs, ads only the newer title rules admit; panel employers only"
+          },
+          {
+            "name": "like_for_like_live_jobs",
+            "type": "number",
+            "description": "live_jobs less newer_rules_only; panel employers only"
+          },
+          {
+            "name": "change_pct",
+            "type": "number",
+            "description": "like_for_like_live_jobs against base_live_jobs, one decimal place"
+          },
+          {
+            "name": "in_panel",
+            "type": "string",
+            "description": "yes or no"
+          },
+          {
+            "name": "note",
+            "type": "string",
+            "description": "Why an employer is out of the panel, or what to know about one in it"
+          }
+        ]
+      }
+    },
+    {
+      "path": "2026-10/data-center-hiring-snapshot-2026-10-pay-transparency.csv",
+      "description": "October 2026 edition: stated-pay share by state and by advertisement-mandate status, with the within-employer control",
+      "schema": {
+        "fields": [
+          {
+            "name": "captured_at",
+            "type": "string",
+            "description": "The crosstab's own cutoff, UTC; later than the edition's"
+          },
+          {
+            "name": "section",
+            "type": "string",
+            "description": "total, group, state, employer_group or employer"
+          },
+          {
+            "name": "key",
+            "type": "string",
+            "description": "Machine key: a USPS state code, a group key or an employer slug"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "Human-readable name"
+          },
+          {
+            "name": "posting_mandate",
+            "type": "string",
+            "description": "posting where state law requires a pay range in the advertisement, none otherwise"
+          },
+          {
+            "name": "live_jobs",
+            "type": "number",
+            "description": "Live jobs in the row"
+          },
+          {
+            "name": "stated_pay_jobs",
+            "type": "number",
+            "description": "Of those, jobs with employer-stated pay"
+          },
+          {
+            "name": "stated_pay_share_pct",
+            "type": "number",
+            "description": "The share, one decimal place; blank under the 8-job floor"
+          },
+          {
+            "name": "states_in_group",
+            "type": "number",
+            "description": "States a total or group row spans"
+          },
+          {
+            "name": "mandate_as_of",
+            "type": "string",
+            "description": "The date the mandate table was taken from its source"
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "description": "Population, floor and per-state notes"
           }
         ]
       }

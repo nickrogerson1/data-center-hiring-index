@@ -1,0 +1,144 @@
+captured_at,employer_slug,employer_name,live_jobs,share_of_all_jobs_pct
+2026-11-01T10:39:10Z,amazon-data-services,Amazon Data Services,486,11.7
+2026-11-01T10:39:10Z,turner-and-townsend,Turner & Townsend,248,6.0
+2026-11-01T10:39:10Z,google,Google,213,5.1
+2026-11-01T10:39:10Z,oracle,Oracle,207,5.0
+2026-11-01T10:39:10Z,mc-dean,M.C. Dean,172,4.1
+2026-11-01T10:39:10Z,sto-building-group,STO Building Group,125,3.0
+2026-11-01T10:39:10Z,qts-data-centers,QTS Data Centers,107,2.6
+2026-11-01T10:39:10Z,iren,IREN,87,2.1
+2026-11-01T10:39:10Z,jll-data-centers,JLL Data Centre Solutions,85,2.0
+2026-11-01T10:39:10Z,gxo-logistics,GXO Logistics,73,1.8
+2026-11-01T10:39:10Z,salas-obrien,Salas O'Brien,68,1.6
+2026-11-01T10:39:10Z,emcor-group,EMCOR Group,68,1.6
+2026-11-01T10:39:10Z,xai,xAI,67,1.6
+2026-11-01T10:39:10Z,microsoft,Microsoft,66,1.6
+2026-11-01T10:39:10Z,cyrusone,CyrusOne,64,1.5
+2026-11-01T10:39:10Z,aligned-data-centers,Aligned Data Centers,63,1.5
+2026-11-01T10:39:10Z,salute-mission-critical,Salute Mission Critical,56,1.3
+2026-11-01T10:39:10Z,switch,Switch,54,1.3
+2026-11-01T10:39:10Z,coreweave,CoreWeave,53,1.3
+2026-11-01T10:39:10Z,ntt-global-data-centers,NTT Global Data Centers,53,1.3
+2026-11-01T10:39:10Z,abm,ABM,52,1.3
+2026-11-01T10:39:10Z,ies-holdings,IES Holdings,52,1.3
+2026-11-01T10:39:10Z,mortenson,Mortenson,51,1.2
+2026-11-01T10:39:10Z,fluidstack,Fluidstack,51,1.2
+2026-11-01T10:39:10Z,eaton,Eaton,51,1.2
+2026-11-01T10:39:10Z,crusoe,Crusoe,46,1.1
+2026-11-01T10:39:10Z,securitas,Securitas,44,1.1
+2026-11-01T10:39:10Z,everon-data-center-services,EverOn Data Center Services,41,1.0
+2026-11-01T10:39:10Z,black-box,Black Box,38,0.9
+2026-11-01T10:39:10Z,vantage-data-centers,Vantage Data Centers,37,0.9
+2026-11-01T10:39:10Z,loenbro,Loenbro,37,0.9
+2026-11-01T10:39:10Z,ryan-companies,Ryan Companies,30,0.7
+2026-11-01T10:39:10Z,apple,Apple,30,0.7
+2026-11-01T10:39:10Z,turner-construction,Turner Construction,29,0.7
+2026-11-01T10:39:10Z,align-communications,Align Communications,28,0.7
+2026-11-01T10:39:10Z,trane-technologies,Trane Technologies,28,0.7
+2026-11-01T10:39:10Z,equinix,Equinix,28,0.7
+2026-11-01T10:39:10Z,digital-realty,Digital Realty,27,0.6
+2026-11-01T10:39:10Z,unisys,Unisys,26,0.6
+2026-11-01T10:39:10Z,databank,DataBank,26,0.6
+2026-11-01T10:39:10Z,iron-mountain-data-centers,Iron Mountain Data Centers,25,0.6
+2026-11-01T10:39:10Z,clune-construction,Clune Construction,24,0.6
+2026-11-01T10:39:10Z,milestone-technologies,Milestone Technologies,23,0.6
+2026-11-01T10:39:10Z,prime-data-centers,Prime Data Centers,23,0.6
+2026-11-01T10:39:10Z,allied-universal,Allied Universal,22,0.5
+2026-11-01T10:39:10Z,e2-optics,E2 Optics,22,0.5
+2026-11-01T10:39:10Z,enterprise-electrical,Enterprise Electrical,22,0.5
+2026-11-01T10:39:10Z,networkconnex,NetworkConnex,22,0.5
+2026-11-01T10:39:10Z,vertiv,Vertiv,21,0.5
+2026-11-01T10:39:10Z,introl,Introl,21,0.5
+2026-11-01T10:39:10Z,sundt,Sundt Construction,21,0.5
+2026-11-01T10:39:10Z,mantis-innovation,Mantis Innovation,20,0.5
+2026-11-01T10:39:10Z,astreya,Astreya,20,0.5
+2026-11-01T10:39:10Z,lambda,Lambda,19,0.5
+2026-11-01T10:39:10Z,flexential,Flexential,18,0.4
+2026-11-01T10:39:10Z,je-dunn,JE Dunn Construction,18,0.4
+2026-11-01T10:39:10Z,fleet-data-centers,Fleet Data Centers,18,0.4
+2026-11-01T10:39:10Z,openai,OpenAI,17,0.4
+2026-11-01T10:39:10Z,rosendin,Rosendin Electric,16,0.4
+2026-11-01T10:39:10Z,interstates,Interstates,16,0.4
+2026-11-01T10:39:10Z,riot-platforms,Riot Platforms,15,0.4
+2026-11-01T10:39:10Z,meta,Meta,15,0.4
+2026-11-01T10:39:10Z,f6-data-solutions,F6 Data Solutions,15,0.4
+2026-11-01T10:39:10Z,cloudhq,CloudHQ,14,0.3
+2026-11-01T10:39:10Z,mitsubishi-electric-power-products,Mitsubishi Electric Power Products,14,0.3
+2026-11-01T10:39:10Z,carrier,Carrier,14,0.3
+2026-11-01T10:39:10Z,munters,Munters,14,0.3
+2026-11-01T10:39:10Z,stn-incorporated,STN Incorporated,13,0.3
+2026-11-01T10:39:10Z,upchurch-services,Upchurch Services,13,0.3
+2026-11-01T10:39:10Z,supermicro,Supermicro,13,0.3
+2026-11-01T10:39:10Z,lotusworks,LotusWorks,13,0.3
+2026-11-01T10:39:10Z,tdindustries,TDIndustries,12,0.3
+2026-11-01T10:39:10Z,bgis,BGIS,12,0.3
+2026-11-01T10:39:10Z,nebius,Nebius,12,0.3
+2026-11-01T10:39:10Z,tensorwave,TensorWave,11,0.3
+2026-11-01T10:39:10Z,cushman-wakefield,Cushman & Wakefield,11,0.3
+2026-11-01T10:39:10Z,giga-energy,Giga Energy,10,0.2
+2026-11-01T10:39:10Z,stack-infrastructure,STACK Infrastructure,10,0.2
+2026-11-01T10:39:10Z,enersys,EnerSys,10,0.2
+2026-11-01T10:39:10Z,caterpillar,Caterpillar,10,0.2
+2026-11-01T10:39:10Z,amazon-web-services,Amazon Web Services,10,0.2
+2026-11-01T10:39:10Z,fst-technical-services,FST Technical Services,10,0.2
+2026-11-01T10:39:10Z,compu-dynamics,Compu Dynamics,10,0.2
+2026-11-01T10:39:10Z,hut-8,Hut 8,9,0.2
+2026-11-01T10:39:10Z,h5-data-centers,H5 Data Centers,9,0.2
+2026-11-01T10:39:10Z,nvent,nVent,9,0.2
+2026-11-01T10:39:10Z,serverfarm,Serverfarm,9,0.2
+2026-11-01T10:39:10Z,faith-technologies,Faith Technologies,9,0.2
+2026-11-01T10:39:10Z,edgeconnex,EdgeConneX,8,0.2
+2026-11-01T10:39:10Z,bitdeer,Bitdeer,8,0.2
+2026-11-01T10:39:10Z,pgtek,PGTEK,8,0.2
+2026-11-01T10:39:10Z,galaxy,Galaxy,8,0.2
+2026-11-01T10:39:10Z,csquare,Csquare,8,0.2
+2026-11-01T10:39:10Z,yancey-bros,Yancey Bros. Co.,8,0.2
+2026-11-01T10:39:10Z,expedient,Expedient,8,0.2
+2026-11-01T10:39:10Z,vultr,Vultr,7,0.2
+2026-11-01T10:39:10Z,nscale,Nscale,7,0.2
+2026-11-01T10:39:10Z,rowan-digital-infrastructure,Rowan Digital Infrastructure,7,0.2
+2026-11-01T10:39:10Z,armada,Armada,7,0.2
+2026-11-01T10:39:10Z,stream-data-centers,Stream Data Centers,7,0.2
+2026-11-01T10:39:10Z,albireo-energy,Albireo Energy,7,0.2
+2026-11-01T10:39:10Z,syska-hennessy,Syska Hennessy Group,6,0.1
+2026-11-01T10:39:10Z,cologix,Cologix,6,0.1
+2026-11-01T10:39:10Z,trace3,Trace3,6,0.1
+2026-11-01T10:39:10Z,rehlko,Rehlko,6,0.1
+2026-11-01T10:39:10Z,johnson-controls,Johnson Controls,6,0.1
+2026-11-01T10:39:10Z,terawulf,TeraWulf,6,0.1
+2026-11-01T10:39:10Z,cirrascale,Cirrascale,6,0.1
+2026-11-01T10:39:10Z,abb,ABB,6,0.1
+2026-11-01T10:39:10Z,netrality-data-centers,Netrality Data Centers,5,0.1
+2026-11-01T10:39:10Z,core-scientific,Core Scientific,5,0.1
+2026-11-01T10:39:10Z,spacex,SpaceX,5,0.1
+2026-11-01T10:39:10Z,lightedge,LightEdge,5,0.1
+2026-11-01T10:39:10Z,divcon-controls,Divcon Controls,5,0.1
+2026-11-01T10:39:10Z,us-signal,US Signal,5,0.1
+2026-11-01T10:39:10Z,colovore,Colovore,5,0.1
+2026-11-01T10:39:10Z,fermi-america,Fermi America,4,0.1
+2026-11-01T10:39:10Z,skanska-usa,Skanska USA,4,0.1
+2026-11-01T10:39:10Z,rackspace,Rackspace,4,0.1
+2026-11-01T10:39:10Z,cerebras,Cerebras,4,0.1
+2026-11-01T10:39:10Z,tierpoint,TierPoint,4,0.1
+2026-11-01T10:39:10Z,yondr-group,Yondr Group,4,0.1
+2026-11-01T10:39:10Z,helix-electric,Helix Electric,3,0.1
+2026-11-01T10:39:10Z,applied-digital,Applied Digital,3,0.1
+2026-11-01T10:39:10Z,firstlight,FirstLight,3,0.1
+2026-11-01T10:39:10Z,keel-infrastructure,Keel Infrastructure,3,0.1
+2026-11-01T10:39:10Z,dataone,DataOne,3,0.1
+2026-11-01T10:39:10Z,carter-machinery,Carter Machinery,3,0.1
+2026-11-01T10:39:10Z,compass-datacenters,Compass Datacenters,3,0.1
+2026-11-01T10:39:10Z,nexcess,Nexcess,3,0.1
+2026-11-01T10:39:10Z,crowdstrike,CrowdStrike,3,0.1
+2026-11-01T10:39:10Z,lightning-ai,Lightning AI,2,0.0
+2026-11-01T10:39:10Z,ensono,Ensono,2,0.0
+2026-11-01T10:39:10Z,massed-compute,Massed Compute,2,0.0
+2026-11-01T10:39:10Z,total-deployment-solutions,Total Deployment Solutions,2,0.0
+2026-11-01T10:39:10Z,gimlet-labs,Gimlet Labs,2,0.0
+2026-11-01T10:39:10Z,cipher-mining,Cipher Mining,2,0.0
+2026-11-01T10:39:10Z,novva-data-centers,Novva Data Centers,2,0.0
+2026-11-01T10:39:10Z,powersecure,PowerSecure,2,0.0
+2026-11-01T10:39:10Z,myriad360,Myriad360,2,0.0
+2026-11-01T10:39:10Z,penguin-solutions,Penguin Solutions,2,0.0
+2026-11-01T10:39:10Z,backblaze,Backblaze,1,0.0
+2026-11-01T10:39:10Z,circet-usa,Circet USA,1,0.0

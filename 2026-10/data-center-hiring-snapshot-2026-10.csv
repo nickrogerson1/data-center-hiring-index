@@ -1,0 +1,45 @@
+dimension,key,label,value,unit,share_of_all_jobs_pct
+summary,live_jobs,Live jobs,4155,count,100.0
+summary,employers,Employers with live jobs,143,count,
+summary,states,States represented,46,count,
+summary,cities,Distinct city-state combinations,579,count,
+summary,stated_pay,Listings with employer-stated pay,2373,count,57.1
+summary,posted_7_days,Published in previous 7 days,696,count,16.8
+summary,posted_30_days,Published in previous 30 days,2317,count,55.8
+state,TX,Texas,891,live_jobs,21.4
+state,VA,Virginia,459,live_jobs,11.0
+state,CA,California,270,live_jobs,6.5
+state,GA,Georgia,229,live_jobs,5.5
+state,OH,Ohio,201,live_jobs,4.8
+state,AZ,Arizona,193,live_jobs,4.6
+state,TN,Tennessee,121,live_jobs,2.9
+state,CO,Colorado,115,live_jobs,2.8
+state,IL,Illinois,109,live_jobs,2.6
+state,MS,Mississippi,95,live_jobs,2.3
+state,NV,Nevada,92,live_jobs,2.2
+state,OR,Oregon,92,live_jobs,2.2
+role,construction,Data center construction,1511,live_jobs,36.4
+role,data-center-technician,Data center technician,744,live_jobs,17.9
+role,critical-facilities-engineer,Critical facilities engineer,435,live_jobs,10.5
+role,design-engineering,Data center design and engineering,396,live_jobs,9.5
+role,data-center-operations,Data center operations,263,live_jobs,6.3
+role,logistics,Data center logistics,197,live_jobs,4.7
+role,commissioning,Data center commissioning,167,live_jobs,4.0
+role,security,Data center security,134,live_jobs,3.2
+role,hvac-technician-data-center,Data center HVAC technician,109,live_jobs,2.6
+role,noc,Data center NOC technician,76,live_jobs,1.8
+role,data-center-electrician,Data center electrician,73,live_jobs,1.8
+role,sales,Data center sales,37,live_jobs,0.9
+role,entry-level,Entry level data center,13,live_jobs,0.3
+employer,amazon-data-services,Amazon Data Services,486,live_jobs,11.7
+employer,turner-and-townsend,Turner & Townsend,248,live_jobs,6.0
+employer,google,Google,213,live_jobs,5.1
+employer,oracle,Oracle,207,live_jobs,5.0
+employer,mc-dean,M.C. Dean,172,live_jobs,4.1
+employer,sto-building-group,STO Building Group,125,live_jobs,3.0
+employer,qts-data-centers,QTS Data Centers,107,live_jobs,2.6
+employer,iren,IREN,87,live_jobs,2.1
+employer,jll-data-centers,JLL Data Centre Solutions,85,live_jobs,2.0
+employer,gxo-logistics,GXO Logistics,73,live_jobs,1.8
+employer,salas-obrien,Salas O'Brien,68,live_jobs,1.6
+employer,emcor-group,EMCOR Group,68,live_jobs,1.6

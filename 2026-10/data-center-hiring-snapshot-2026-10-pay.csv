@@ -1,0 +1,21 @@
+role_key,role_label,pay_period,sample_size,median_advertised_lower_bound,median_advertised_upper_bound,currency
+data-center-technician,Data center technician,HOUR,366,32.52,55.00,USD
+critical-facilities-engineer,Critical facilities engineer,HOUR,111,35.00,45.00,USD
+construction,Data center construction,HOUR,49,35.00,42.00,USD
+hvac-technician-data-center,Data center HVAC technician,HOUR,40,38.50,50.00,USD
+security,Data center security,HOUR,29,20.19,28.85,USD
+logistics,Data center logistics,HOUR,27,24.27,42.54,USD
+data-center-electrician,Data center electrician,HOUR,8,35.50,51.75,USD
+commissioning,Data center commissioning,HOUR,8,41.78,57.23,USD
+construction,Data center construction,YEAR,677,117800,180000,USD
+design-engineering,Data center design and engineering,YEAR,280,120000,184800,USD
+data-center-operations,Data center operations,YEAR,194,122000,187000,USD
+data-center-technician,Data center technician,YEAR,134,85060,118000,USD
+critical-facilities-engineer,Critical facilities engineer,YEAR,102,104850,166300,USD
+commissioning,Data center commissioning,YEAR,74,120000,170000,USD
+logistics,Data center logistics,YEAR,66,113655,195000,USD
+noc,Data center NOC technician,YEAR,32,139000,204000,USD
+security,Data center security,YEAR,31,116000,167000,USD
+hvac-technician-data-center,Data center HVAC technician,YEAR,24,84000,122500,USD
+sales,Data center sales,YEAR,17,127000,168000,USD
+data-center-electrician,Data center electrician,YEAR,8,103120,129150,USD

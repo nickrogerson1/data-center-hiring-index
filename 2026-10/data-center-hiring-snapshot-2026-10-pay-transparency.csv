@@ -1,0 +1,140 @@
+captured_at,section,key,label,posting_mandate,live_jobs,stated_pay_jobs,stated_pay_share_pct,states_in_group,mandate_as_of,notes
+2026-11-01T10:40:41Z,total,all,All live jobs,,4155,2373,57.1,46,2026-11-01,"population: status=live, moderation_status=approved; stated pay excludes salary_is_estimate rows; mandate source https://www.jacksonlewis.com/insights/navigating-2026-pay-transparency-laws-and-employer-obligations; VA from 2026-07-01 https://lis.virginia.gov/bill-details/20261/HB636; ME from 2026-07-29 https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0018&item=7&snum=132; CT from 2026-10-01 https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2026&bill_num=5003"
+2026-11-01T10:40:41Z,group,posting_mandate,States requiring a pay range in the advertisement,posting,1249,1031,82.5,14,2026-11-01,
+2026-11-01T10:40:41Z,group,no_posting_mandate,States with no advertisement mandate,none,2786,1267,45.5,32,2026-11-01,
+2026-11-01T10:40:41Z,state,TX,Texas,none,891,372,41.8,,2026-11-01,
+2026-11-01T10:40:41Z,state,VA,Virginia,posting,459,362,78.9,,2026-11-01,
+2026-11-01T10:40:41Z,state,CA,California,posting,270,237,87.8,,2026-11-01,
+2026-11-01T10:40:41Z,state,GA,Georgia,none,229,94,41.0,,2026-11-01,
+2026-11-01T10:40:41Z,state,OH,Ohio,none,201,121,60.2,,2026-11-01,"city salary-history ordinances, no state posting mandate"
+2026-11-01T10:40:41Z,state,AZ,Arizona,none,193,90,46.6,,2026-11-01,
+2026-11-01T10:40:41Z,state,TN,Tennessee,none,121,80,66.1,,2026-11-01,
+2026-11-01T10:40:41Z,state,CO,Colorado,posting,115,100,87.0,,2026-11-01,
+2026-11-01T10:40:41Z,state,IL,Illinois,posting,109,76,69.7,,2026-11-01,
+2026-11-01T10:40:41Z,state,MS,Mississippi,none,95,25,26.3,,2026-11-01,
+2026-11-01T10:40:41Z,state,NV,Nevada,none,92,44,47.8,,2026-11-01,"range required only after an interview, not in the advertisement"
+2026-11-01T10:40:41Z,state,OR,Oregon,none,92,69,75.0,,2026-11-01,
+2026-11-01T10:40:41Z,state,NC,North Carolina,none,91,40,44.0,,2026-11-01,
+2026-11-01T10:40:41Z,state,IN,Indiana,none,82,56,68.3,,2026-11-01,
+2026-11-01T10:40:41Z,state,IA,Iowa,none,78,27,34.6,,2026-11-01,
+2026-11-01T10:40:41Z,state,WA,Washington,posting,72,69,95.8,,2026-11-01,
+2026-11-01T10:40:41Z,state,UT,Utah,none,66,18,27.3,,2026-11-01,
+2026-11-01T10:40:41Z,state,MO,Missouri,none,64,31,48.4,,2026-11-01,
+2026-11-01T10:40:41Z,state,OK,Oklahoma,none,62,19,30.6,,2026-11-01,
+2026-11-01T10:40:41Z,state,PA,Pennsylvania,none,61,31,50.8,,2026-11-01,
+2026-11-01T10:40:41Z,state,FL,Florida,none,59,14,23.7,,2026-11-01,
+2026-11-01T10:40:41Z,state,MD,Maryland,posting,56,48,85.7,,2026-11-01,
+2026-11-01T10:40:41Z,state,NY,New York,posting,55,49,89.1,,2026-11-01,
+2026-11-01T10:40:41Z,state,SC,South Carolina,none,48,7,14.6,,2026-11-01,
+2026-11-01T10:40:41Z,state,NE,Nebraska,none,44,26,59.1,,2026-11-01,
+2026-11-01T10:40:41Z,state,NJ,New Jersey,posting,41,35,85.4,,2026-11-01,
+2026-11-01T10:40:41Z,state,LA,Louisiana,none,38,15,39.5,,2026-11-01,
+2026-11-01T10:40:41Z,state,MI,Michigan,none,33,24,72.7,,2026-11-01,
+2026-11-01T10:40:41Z,state,WI,Wisconsin,none,33,22,66.7,,2026-11-01,
+2026-11-01T10:40:41Z,state,DC,District of Columbia,posting,27,23,85.2,,2026-11-01,
+2026-11-01T10:40:41Z,state,WY,Wyoming,none,23,12,52.2,,2026-11-01,
+2026-11-01T10:40:41Z,state,MN,Minnesota,posting,22,16,72.7,,2026-11-01,
+2026-11-01T10:40:41Z,state,NM,New Mexico,none,19,7,36.8,,2026-11-01,
+2026-11-01T10:40:41Z,state,AL,Alabama,none,18,1,5.6,,2026-11-01,
+2026-11-01T10:40:41Z,state,KY,Kentucky,none,15,6,40.0,,2026-11-01,
+2026-11-01T10:40:41Z,state,MA,Massachusetts,posting,14,13,92.9,,2026-11-01,
+2026-11-01T10:40:41Z,state,ND,North Dakota,none,13,6,46.2,,2026-11-01,
+2026-11-01T10:40:41Z,state,KS,Kansas,none,9,1,11.1,,2026-11-01,
+2026-11-01T10:40:41Z,state,AR,Arkansas,none,8,6,75.0,,2026-11-01,
+2026-11-01T10:40:41Z,state,CT,Connecticut,posting,7,1,,,2026-11-01,below the 8-job sample floor; share withheld
+2026-11-01T10:40:41Z,state,NH,New Hampshire,none,3,2,,,2026-11-01,below the 8-job sample floor; share withheld
+2026-11-01T10:40:41Z,state,WV,West Virginia,none,3,1,,,2026-11-01,below the 8-job sample floor; share withheld
+2026-11-01T10:40:41Z,state,HI,Hawaii,posting,1,1,,,2026-11-01,below the 8-job sample floor; share withheld
+2026-11-01T10:40:41Z,state,ID,Idaho,none,1,0,,,2026-11-01,below the 8-job sample floor; share withheld
+2026-11-01T10:40:41Z,state,SD,South Dakota,none,1,0,,,2026-11-01,below the 8-job sample floor; share withheld
+2026-11-01T10:40:41Z,state,VT,Vermont,posting,1,1,,,2026-11-01,below the 8-job sample floor; share withheld
+2026-11-01T10:40:41Z,employer_group,in_mandate_states,"Employers advertising in both, their ads in mandate states",posting,1032,872,84.5,,2026-11-01,44 employers with at least 5 live jobs on each side
+2026-11-01T10:40:41Z,employer_group,outside_mandate_states,"Employers advertising in both, their ads elsewhere",none,1856,1041,56.1,,2026-11-01,44 employers with at least 5 live jobs on each side
+2026-11-01T10:40:41Z,employer,amazon-data-services,Amazon Data Services,posting,183,183,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,amazon-data-services,Amazon Data Services,none,303,303,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,turner-and-townsend,Turner & Townsend,posting,66,39,59.1,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,turner-and-townsend,Turner & Townsend,none,162,15,9.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,google,Google,posting,77,77,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,google,Google,none,136,136,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,oracle,Oracle,posting,49,49,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,oracle,Oracle,none,158,158,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,mc-dean,M.C. Dean,posting,99,98,99.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,mc-dean,M.C. Dean,none,73,4,5.5,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,qts-data-centers,QTS Data Centers,posting,16,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,qts-data-centers,QTS Data Centers,none,91,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,iren,IREN,posting,10,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,iren,IREN,none,77,3,3.9,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,jll-data-centers,JLL Data Centre Solutions,posting,29,28,96.6,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,jll-data-centers,JLL Data Centre Solutions,none,56,9,16.1,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,emcor-group,EMCOR Group,posting,22,18,81.8,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,emcor-group,EMCOR Group,none,46,5,10.9,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,microsoft,Microsoft,posting,28,28,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,microsoft,Microsoft,none,38,38,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,aligned-data-centers,Aligned Data Centers,posting,23,18,78.3,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,aligned-data-centers,Aligned Data Centers,none,40,23,57.5,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,cyrusone,CyrusOne,posting,21,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,cyrusone,CyrusOne,none,40,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,salute-mission-critical,Salute Mission Critical,posting,7,4,57.1,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,salute-mission-critical,Salute Mission Critical,none,49,33,67.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,coreweave,CoreWeave,posting,37,37,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,coreweave,CoreWeave,none,16,16,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,abm,ABM,posting,20,20,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,abm,ABM,none,32,15,46.9,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,ies-holdings,IES Holdings,posting,6,6,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,ies-holdings,IES Holdings,none,46,25,54.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,eaton,Eaton,posting,20,20,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,eaton,Eaton,none,31,30,96.8,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,mortenson,Mortenson,posting,6,4,66.7,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,mortenson,Mortenson,none,45,42,93.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,salas-obrien,Salas O'Brien,posting,31,27,87.1,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,salas-obrien,Salas O'Brien,none,18,8,44.4,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,ntt-global-data-centers,NTT Global Data Centers,posting,36,36,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,ntt-global-data-centers,NTT Global Data Centers,none,12,11,91.7,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,fluidstack,Fluidstack,posting,9,9,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,fluidstack,Fluidstack,none,37,37,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,crusoe,Crusoe,posting,32,31,96.9,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,crusoe,Crusoe,none,12,12,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,securitas,Securitas,posting,11,9,81.8,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,securitas,Securitas,none,33,32,97.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,black-box,Black Box,posting,10,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,black-box,Black Box,none,28,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,vantage-data-centers,Vantage Data Centers,posting,14,12,85.7,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,vantage-data-centers,Vantage Data Centers,none,19,1,5.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,ryan-companies,Ryan Companies,posting,9,7,77.8,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,ryan-companies,Ryan Companies,none,21,2,9.5,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,turner-construction,Turner Construction,posting,10,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,turner-construction,Turner Construction,none,19,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,align-communications,Align Communications,posting,7,7,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,align-communications,Align Communications,none,21,3,14.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,digital-realty,Digital Realty,posting,12,12,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,digital-realty,Digital Realty,none,15,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,equinix,Equinix,posting,16,12,75.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,equinix,Equinix,none,11,9,81.8,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,databank,DataBank,posting,5,1,20.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,databank,DataBank,none,21,1,4.8,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,unisys,Unisys,posting,5,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,unisys,Unisys,none,21,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,iron-mountain-data-centers,Iron Mountain Data Centers,posting,12,12,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,iron-mountain-data-centers,Iron Mountain Data Centers,none,13,5,38.5,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,clune-construction,Clune Construction,posting,11,10,90.9,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,clune-construction,Clune Construction,none,13,1,7.7,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,milestone-technologies,Milestone Technologies,posting,8,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,milestone-technologies,Milestone Technologies,none,15,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,prime-data-centers,Prime Data Centers,posting,11,8,72.7,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,prime-data-centers,Prime Data Centers,none,12,7,58.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,introl,Introl,posting,5,5,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,introl,Introl,none,16,16,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,astreya,Astreya,posting,9,9,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,astreya,Astreya,none,11,11,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,mantis-innovation,Mantis Innovation,posting,10,10,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,mantis-innovation,Mantis Innovation,none,10,10,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,lambda,Lambda,posting,12,12,100.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,lambda,Lambda,none,6,6,100.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,fleet-data-centers,Fleet Data Centers,posting,6,4,66.7,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,fleet-data-centers,Fleet Data Centers,none,11,8,72.7,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,rosendin,Rosendin Electric,posting,8,4,50.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,rosendin,Rosendin Electric,none,8,1,12.5,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,meta,Meta,posting,7,0,0.0,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,meta,Meta,none,8,0,0.0,,2026-11-01,the same employer's ads in states with no advertisement mandate
+2026-11-01T10:40:41Z,employer,supermicro,Supermicro,posting,7,6,85.7,,2026-11-01,this employer's ads in states requiring a range in the advertisement
+2026-11-01T10:40:41Z,employer,supermicro,Supermicro,none,6,5,83.3,,2026-11-01,the same employer's ads in states with no advertisement mandate
